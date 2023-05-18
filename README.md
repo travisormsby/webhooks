@@ -1,5 +1,5 @@
 # webhooks
-Jupyter notebooks for use in ArcGIS Notebook server to act as webhook receivers.
+Jupyter notebooks for use in ArcGIS Notebook server to act as receiver templates for automating workflows based on webhook payloads received from ArcGIS Enterprise.
 
 The webhook payloads are not easy to discern from the documentation. These notebooks parse the output into variables that can be used to build automated workflows when triggered by a webhook event.
 
